@@ -12,9 +12,7 @@
         <!-- listen view -->
         <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="#55ffffff"
-                >
+                android:layout_height="match_parent">
 
             <include layout="@layout/title_bar"
                 android:id="@+id/title_bar" />
